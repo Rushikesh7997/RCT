@@ -1,3 +1,20 @@
 .taskHeader {
-  /* Sample */
+ 
+  background-color: rgb(132, 22, 223);
+  border: solid 2px black;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+/* .taskHeader>h1,div{
+  text-align: center;
+  color: white;
+} */
+.head{
+  text-align: center;
+    color: white;
+}
+.content{
+  text-align: center;
+    color: white;
 }
